@@ -1,0 +1,32 @@
+.mainPage {
+    background-color: aliceblue;
+}
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+.mainPage nav {
+    display: flex;
+    justify-content: space-between;
+}
+.mainPage nav ul {
+    padding: 0;
+    list-style: none;
+    display: flex;
+}
+.mainPage nav ul li {
+    margin-right: 10px;
+}
+.mainBlock {
+    display: flex;
+    justify-content: space-between;
+}
+.container2 {
+    display: flex;
+    justify-content: space-between;
+}
+.container3 {
+    margin-top: 120px;
+    display: flex;
+    flex-wrap: wrap;
+}

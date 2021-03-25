@@ -1,0 +1,18 @@
+.helpCard2 {
+    width: 445px;
+    height: 445px;
+}
+.helpCard2 hr {
+    margin-top: 80px;
+    text-align: center;
+    width: 70%;
+    color: #FFFFFF;
+}
+.helpCard2 h3 {
+    text-align: center;
+    margin-left: 25px ;
+    width: 70%;
+    font-family: Larsseit;
+    font-size: 32px;
+    color: #FFFFFF;
+}
